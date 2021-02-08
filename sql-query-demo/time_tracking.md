@@ -6,5 +6,5 @@ Exercise Target: 3-5 hours
 |2/7/21|8:25 pm|8:55|:30|Products Querying|
 |2/7/21|8:55 pm|10:05|1:10|Google PLay Store Querying (took a break)|
 |2/8/21|1:00 am|1:35|:35|Google PLay Store Querying (almost done - last two tricky)|
-|2/8/21|?|?|?|Google PLay Store Querying (finishing)|
-|---|---|---|TOTAL|5:35||
+|2/8/21|4:35 pm|5:00|:25|Google PLay Store Querying (finishing)|
+|---|---|---|TOTAL|5:50||
